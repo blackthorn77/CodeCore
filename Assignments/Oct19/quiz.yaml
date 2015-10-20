@@ -1,0 +1,22 @@
+---
+- :question: What is the name for a 100-sided die?
+  :answers:
+    :correct: zocchihedron
+    :incorrect:
+    - rhombicosidodecahedron
+    - dodecahedron
+    - scalenohedron
+- :question: How many zeros does a googleplex have?
+  :answers:
+    :correct: 100
+    :incorrect:
+    - 50
+    - 250
+    - 1000
+- :question: What is a flux capacitor used for?
+  :answers:
+    :correct: Time Travel
+    :incorrect:
+    - Deep Sea Exploration
+    - Quantum Physics
+    - Neurosurgery
